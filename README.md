@@ -1,5 +1,10 @@
 # 💫 About Me:
-👨‍💻 Estudiante de Diseño y Desarrollo Web con un enfoque en frontend. Apasionado por crear experiencias de usuario intuitivas y estéticas. 💡 Con conocimientos en tecnologías clave del desarrollo web y en diseño de interfaces, busco una oportunidad para aplicar y expandir mis habilidades en un entorno profesional. 🚀
+Desarrollador Web Frontend enfocado en crear soluciones digitales accesibles, eficientes y orientadas al usuario. Cuento con experiencia práctica en frameworks modernos como React, Vue, Angular, Next.js y Astro. Manejo con soltura librerías CSS como Tailwind y Bootstrap, así como herramientas de gestión de estado globales. Me destaco por mi pensamiento analítico y enfoque resolutivo, proponiendo soluciones técnicas alineadas con los objetivos del negocio y optimizando la experiencia tanto para clientes como para usuarios finales.
+⁣
+𝗛𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 𝗗𝗲𝘀𝘁𝗮𝗰𝗮𝗱𝗮𝘀:⁣
+⁣
+🎨 Diseño UX/UI con Figma y Adobe XD⁣
+🚀 Desarrollo Frontend con HTML, CSS, JavaScript, ReactJS, Next.js, Vue y AstroJS⁣
 
 
 ## 🌐 Socials:
